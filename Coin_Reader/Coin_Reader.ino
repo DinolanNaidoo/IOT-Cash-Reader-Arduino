@@ -95,6 +95,3 @@ void sendCreditToApi(double coinCredit){
 //inform user
 Serial.println("R"+String(coinCredit)+" Sent to Api");
 }
-attach_file
-Choose Files
-tag_faces
